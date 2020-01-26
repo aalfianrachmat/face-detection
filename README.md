@@ -1,4 +1,4 @@
-# Acquiring Face Detection Dataset Using OpenCV
+# Collecting Face Detection Dataset Using OpenCV
 
 * Step 1: Access webcam camera
 * Step 2: Create face datection program using Haarcascade method
