@@ -11,7 +11,7 @@ import numpy as np
 import os, shutil
 
 # List of available faces dataset
-labels = ['person1',
+labels = ['alfian',
           'person2']
 
 # Currently used label
